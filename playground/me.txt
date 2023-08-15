@@ -1,0 +1,5 @@
+{{#user}}
+Name: Amruta Pede
+Skills: HTML, CSS, JS, Next.js,React,Node js,Mongodb
+Email: amrutapede@gmail.com
+{{/user}}
